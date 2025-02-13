@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Users
+server:
+  port: 8082
+
+eureka:
+  client:
+   enabled: true
