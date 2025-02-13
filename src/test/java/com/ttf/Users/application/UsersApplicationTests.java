@@ -1,4 +1,4 @@
-package com.ttf.Users.Application;
+package com.ttf.Users.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
